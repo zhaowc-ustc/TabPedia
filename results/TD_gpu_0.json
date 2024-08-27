@@ -1,0 +1,17 @@
+[
+    {
+        "img_name": "PMC1064082_1.jpg",
+        "pred": "Here is a list of all the locations of table element in the picture:\n[0.097,0.794,0.748,0.873]",
+        "gt": "Here is a list of all the locations of table element in the picture:\n[0.097,0.797,0.752,0.872]"
+    },
+    {
+        "img_name": "PMC1064082_4.jpg",
+        "pred": "Here is a list of all the locations of table element in the picture:\n[0.097,0.161,0.742,0.611]",
+        "gt": "Here is a list of all the locations of table element in the picture:\n[0.097,0.161,0.743,0.612]"
+    },
+    {
+        "img_name": "PMC1064098_6.jpg",
+        "pred": "Here is a list of all the locations of table element in the picture:\n[0.097,0.173,0.895,0.347]",
+        "gt": "Here is a list of all the locations of table element in the picture:\n[0.097,0.174,0.892,0.347]"
+    }
+]

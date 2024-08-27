@@ -1,0 +1,77 @@
+[
+    {
+        "id": "PMC1064082_1",
+        "image": "PMC1064082_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": null
+            },
+            {
+                "from": "gpt",
+                "value": null
+            }
+        ],
+        "text": [
+            "table"
+        ],
+        "bbox": [
+            "[75,805,580,882]"
+        ],
+        "block_text": "",
+        "task": "LayoutDet-SE",
+        "width": 771,
+        "height": 1000,
+        "img_dir": "samples/images"
+    },
+    {
+        "id": "PMC1064082_4",
+        "image": "PMC1064082_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": null
+            },
+            {
+                "from": "gpt",
+                "value": null
+            }
+        ],
+        "text": [
+            "table"
+        ],
+        "bbox": [
+            "[75,152,573,615]"
+        ],
+        "block_text": "",
+        "task": "LayoutDet-SE",
+        "width": 771,
+        "height": 1000,
+        "img_dir": "samples/images"
+    },
+    {
+        "id": "PMC1064098_6",
+        "image": "PMC1064098_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": null
+            },
+            {
+                "from": "gpt",
+                "value": null
+            }
+        ],
+        "text": [
+            "table"
+        ],
+        "bbox": [
+            "[75,165,688,343]"
+        ],
+        "block_text": "",
+        "task": "LayoutDet-SE",
+        "width": 771,
+        "height": 1000,
+        "img_dir": "samples/images"
+    }
+]

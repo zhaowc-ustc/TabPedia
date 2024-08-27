@@ -1,0 +1,77 @@
+[
+    {
+        "id": "csv_204-csv_166.png",
+        "image": "csv_204-csv_166.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": null
+            },
+            {
+                "from": "gpt",
+                "value": null
+            }
+        ],
+        "questions": [
+            "what was the only game with a score of 14-14 Answer the question and give a reason."
+        ],
+        "answers": [
+            "November 11, 1972"
+        ],
+        "block_text": "",
+        "task": "Table_VQA",
+        "width": 1212,
+        "height": 2820,
+        "img_dir": "samples/images"
+    },
+    {
+        "id": "csv_203-csv_64.png",
+        "image": "csv_203-csv_64.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": null
+            },
+            {
+                "from": "gpt",
+                "value": null
+            }
+        ],
+        "questions": [
+            "which nation has the most bronze medals? Answer the question and give a reason."
+        ],
+        "answers": [
+            "United States"
+        ],
+        "block_text": "",
+        "task": "Table_VQA",
+        "width": 1073,
+        "height": 498,
+        "img_dir": "samples/images"
+    },
+    {
+        "id": "csv_203-csv_845.png",
+        "image": "csv_203-csv_845.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": null
+            },
+            {
+                "from": "gpt",
+                "value": null
+            }
+        ],
+        "questions": [
+            "which private school has the largest number of high school students enrolled? Answer the question and give a reason."
+        ],
+        "answers": [
+            "Nouvel Catholic Central High School"
+        ],
+        "block_text": "",
+        "task": "Table_VQA",
+        "width": 1762,
+        "height": 987,
+        "img_dir": "samples/images"
+    }
+]
