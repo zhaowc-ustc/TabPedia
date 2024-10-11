@@ -20,7 +20,7 @@
     pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu118
     pip install packaging &&  pip install ninja && pip install flash-attn==2.3.6 --no-build-isolation --no-cache-dir
     pip install -r requirements.txt
-    git clone https://github.com/InternLM/xtuner.git -b 9bce7b
+    git clone https://github.com/InternLM/xtuner.git -b v0.1.15
     cd xtuner
     pip install -e '.[all]'
     ```
