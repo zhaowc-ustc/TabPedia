@@ -37,7 +37,7 @@ repetition_penalty=1.0
 # repetition_penalty=1.0
 #==========================Table Query=============================
 
-#==========================Table Query=============================
+#==========================Table Question Answering=============================
 # task='TQA'
 # model_name_or_path="pretrained_pth/TabPedia/pretrained.pth"
 # jsonl_file_path="samples/json/Table_QA.json"
@@ -47,7 +47,7 @@ repetition_penalty=1.0
 # all_processes=1
 # batch_size=1
 # repetition_penalty=1.1
-#==========================Table Query=============================
+#==========================Table Question Answering=============================
 
 
 
