@@ -39,11 +39,11 @@
 
 If you find this work useful, please consider citing our paper:
 ```
-@article{zhao2024tabpedia,
-title={TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy},
-author={Zhao, Weichao and Feng, Hao and Liu, Qi and Tang, Jingqun and Wei, Shu and Wu, Binghong and Liao, Lei and Ye, Yongjie and Liu, Hao and Li, Houqiang and others},
-journal={arXiv preprint arXiv:2406.01326},
-year={2024}
+@inproceedings{zhao2024tabpedia,
+ title={TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy},
+ author = {Weichao Zhao, Hao Feng, Qi Liu, Jingqun Tang, Binghong Wu, Lei Liao, Shu Wei, Yongjie Ye, Hao Liu, Wengang Zhou, Houqiang Li, Can Huang},
+ booktitle = {Advances in Neural Information Processing Systems},
+ year = {2024}
 }
 ```
 
